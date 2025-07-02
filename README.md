@@ -84,7 +84,7 @@ Database: MySQL (3 tables: users, complaints, feedback)
 
 ⚙️ Setup & Installation
 Clone the repo
-git clone https://github.com/your‑username/DigitalComplaintSystem.git
+git clone  https://github.com/Akhilnagavelli/DigitalComplaintSystem.git
 cd DigitalComplaintSystem
 Import into Eclipse/IntelliJ as a Java project.
 
@@ -93,8 +93,6 @@ Add MySQL JDBC Driver (mysql-connector-java.jar) to lib/ and your classpath.
 Create the Database & Tables
 
 sql
-Copy
-Edit
 SOURCE database/schema.sql;
 Update model/DBConnection.java with your MySQL username & password.
 
@@ -175,7 +173,7 @@ That’s a wrap! Thanks for stopping by. I built this project from scratch—eve
 
 — Akhil Nagavelli
 
-🔗 LinkedIn
+🔗 https://www.linkedin.com/in/akhil-nagavelli-a77a92222
 
 🐙 GitHub
 
