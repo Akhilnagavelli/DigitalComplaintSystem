@@ -178,5 +178,6 @@ That’s a wrap! Thanks for stopping by. I built this project from scratch—eve
 🐙 GitHub
 
 
-<img src="Screenshot 2025-07-02 164504.png" width="600"/>
+<img src="Screenshot 2025-07-02 164504.png" width="400"/>      <img src="Screenshot 2025-07-02 180442.png" width="400"/>      <img src="Screenshot 2025-07-02 180442.png" width="400"/>    
+
 
