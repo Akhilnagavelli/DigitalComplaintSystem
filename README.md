@@ -71,8 +71,9 @@ Key Features
 💾 MySQL Database with clean schema & ER design
 
 
-Tech Stack & Architecture
-Console UI  ←→  Java Service Layer  ←→  JDBC DAO Layer  ←→  MySQL Database
+Tech Stack & Architecture Console
+
+UI  ←→  Java Service Layer  ←→  JDBC DAO Layer  ←→  MySQL Database
 
 Front‑end: Java console (Scanner-based menus)
 
